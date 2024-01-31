@@ -1,2 +1,0 @@
-# Croissant
-Multiple Page Hosting
